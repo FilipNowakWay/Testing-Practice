@@ -43,17 +43,9 @@
     "@eslint/markdown": "^9.0.0",
     "@eslint/shell": "^0.1.2",
     "babel-jest": "^30.5.2",
-    "css-loader": "^7.1.5",
     "eslint": "^10.15.0",
-    "gh-pages": "^6.3.0",
-    "globals": "^17.14.0",
-    "html-webpack-plugin": "^5.6.8",
     "jest": "^30.5.2",
-    "prettier": "3.10.1",
-    "style-loader": "^4.0.0",
-    "webpack": "^5.112.2",
-    "webpack-cli": "^7.3.1",
-    "webpack-dev-server": "^6.1.0",
-    "webpack-merge": "^6.0.1"
+    "prettier": "3.10.1"
+
   }
 }
